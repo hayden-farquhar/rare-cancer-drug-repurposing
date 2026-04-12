@@ -2,7 +2,7 @@
 
 Replication code and results for:
 
-> Farquhar H. Pharmacogenomic imputation identifies epigenetic drug candidates for mesothelioma and actionable therapies for four other rare cancers. *[Journal]*, 2026.
+> Farquhar H. Pharmacogenomic imputation identifies epigenetic drug candidates for mesothelioma and actionable therapies for four other rare cancers. 2026. *Preprint.*
 
 ## Overview
 
@@ -89,7 +89,7 @@ If you use this code or data, please cite:
 @article{farquhar2026rare,
   title={Pharmacogenomic imputation identifies epigenetic drug candidates for mesothelioma and actionable therapies for four other rare cancers},
   author={Farquhar, Hayden},
-  journal={[Journal]},
+  note={Preprint},
   year={2026}
 }
 ```
