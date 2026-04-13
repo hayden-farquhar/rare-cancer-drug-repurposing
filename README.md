@@ -2,7 +2,7 @@
 
 Replication code and results for:
 
-> Farquhar H. Pharmacogenomic imputation identifies epigenetic drug candidates for mesothelioma and actionable therapies for four other rare cancers. 2026. *Preprint.*
+> Farquhar H. Pharmacogenomic imputation identifies epigenetic drug candidates for mesothelioma and actionable therapies for four other rare cancers. 2026. Zenodo preprint. https://doi.org/10.5281/zenodo.19546768
 >
 > [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19535800.svg)](https://doi.org/10.5281/zenodo.19535800)
 
@@ -91,7 +91,7 @@ If you use this code or data, please cite:
 @article{farquhar2026rare,
   title={Pharmacogenomic imputation identifies epigenetic drug candidates for mesothelioma and actionable therapies for four other rare cancers},
   author={Farquhar, Hayden},
-  note={Preprint},
+  note={Zenodo preprint. \url{https://doi.org/10.5281/zenodo.19546768}},
   year={2026},
   doi={10.5281/zenodo.19535800}
 }
