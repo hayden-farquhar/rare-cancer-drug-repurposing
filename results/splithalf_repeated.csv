@@ -1,0 +1,4 @@
+cancer,n,splithalf_mean_r,splithalf_sd_r,splithalf_median_r,frac_splits_r_positive
+TCGA-MESO,82,0.191,0.156,0.233,0.88
+TCGA-ACC,70,0.237,0.127,0.259,0.95
+TCGA-UVM,76,0.136,0.155,0.135,0.78

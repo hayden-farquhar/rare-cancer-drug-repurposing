@@ -1,9 +1,23 @@
 {
+  "upload_type": "software",
+  "title": "Computational nomination of candidate repurposing drugs for five rare cancers via GDSC-to-TCGA pharmacogenomic transfer learning — analysis pipeline",
   "creators": [
     {
       "name": "Farquhar, Hayden",
       "orcid": "0009-0002-6226-440X",
       "affiliation": "Independent Researcher"
     }
+  ],
+  "license": "MIT",
+  "access_right": "open",
+  "keywords": [
+    "drug repurposing",
+    "rare cancers",
+    "pharmacogenomics",
+    "transfer learning",
+    "mesothelioma",
+    "GDSC",
+    "TCGA",
+    "survival analysis"
   ]
 }

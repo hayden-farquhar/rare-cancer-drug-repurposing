@@ -1,0 +1,4 @@
+cancer,n,events,real_fdr_sig,perm_mean,perm_sd,perm_max,emp_p,split_half_r,split_half_p
+TCGA-MESO,82,73,39,1.11,6.73,55,0.02,0.218,2.5e-04
+TCGA-ACC,70,28,59,0.96,8.26,83,0.02,0.427,1.0e-13
+TCGA-UVM,76,33,16,0.13,1.1,11,0.01,0.081,1.8e-01
